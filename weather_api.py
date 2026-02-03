@@ -1,4 +1,4 @@
- Internship Task Alternative – No API Required
+# Internship Task Alternative – No API Required
 # Weather Data Visualization using Hardcoded Values
 
 import matplotlib.pyplot as plt
