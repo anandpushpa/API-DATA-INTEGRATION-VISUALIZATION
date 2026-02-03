@@ -1,26 +1,13 @@
-Internship Task-1
-API Integration and Data Visualization
+# API-DATA-INTEGRATION-VISUALIZATION
 
-This project is done as part of internship task.
-In this project, Python is used to fetch weather data
-from OpenWeatherMap public API.
+*COMPANY*:CODTECH IT SOLUTIONS
 
-The fetched data like temperature, humidity, pressure
-and wind speed are displayed and visualized using
-Matplotlib bar graph.
+*NAME*:SARANYA
 
-Tools and Technologies Used:
-- Python
-- Visual Studio Code
-- OpenWeatherMap API
-- Matplotlib
-- Requests
+*INTERN ID*:CTIS2726
 
-How to Run:
-1. Open the project folder in VS Code
-2. Run the file weather_api.py using terminal
-3. The output will be shown in terminal and graph window
+*DOMAIN*:PYTHON 
 
-Output:
-The output is displayed as a bar graph showing
-weather parameters.
+*DURATION*:4 WEEKS
+
+*MENTOR*:NEELA SANTHOSH
